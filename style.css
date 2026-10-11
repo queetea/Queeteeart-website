@@ -178,8 +178,7 @@ h3 {
 }
 
 .brand-mark img {
-   display: grid;
-   border-radius: 2px;
+   border-radius: 4px;
 }
 
 .brand-mark span {
