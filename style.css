@@ -179,9 +179,9 @@ h3 {
 
 .brand-mark img {
    position: relative;
-   display: grid;
+   display: flex;
    place-items: center;
-   width: 7px;
+   width: auto;
    height: auto;
    border-radius: 10px;
    
