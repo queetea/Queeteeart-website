@@ -178,8 +178,9 @@ h3 {
 }
 
 .brand-mark img {
-   position: relative;
+   position: absolute;
    display: flex;
+   flex-direction: row;
    place-items: center;
    width: 45px;
    height: 45px;
