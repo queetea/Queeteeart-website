@@ -160,6 +160,7 @@ h3 {
   align-items: center;
   gap: 11px;
   flex-shrink: 0;
+  justify-content: space-between;
 }
 
 .brand-mark {
