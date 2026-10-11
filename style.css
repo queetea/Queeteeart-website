@@ -821,6 +821,18 @@ h3 {
   letter-spacing: -3px;
 }
 
+.portfolio-big-type2 {
+  position: relative;
+  z-index: 1;
+  align-self: center;
+  color: var(--green);
+  font-family: Georgia, serif;
+  font-size: clamp(35px, 5vw, 58px);
+  font-weight: 700;
+  line-height: 0.98;
+  letter-spacing: -3px;
+}
+
 .portfolio-art-footer {
   font-size: 8px;
   font-weight: 800;
