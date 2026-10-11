@@ -818,14 +818,28 @@ h3 {
   background: #E9E4D9;
 }
 
-.art-sheet {
+/* Image comes before the sheets */
+.art-print .printing-image {
+   position: relative;
+   width: 100%;
+   z-index: 1;
+}
+.art-print .printing-image img {
+   display: block;
+   width: 100%;
+   height: auto;
+   object-fit: contain;
+}
+
+.art-print .art-sheet {
    position: relative;
    display: flex;
    flex-direction: column;
-   justify-content: space-between;
-   min-height: 310px;
-   
+   gap: 16px;
+   width: 100%;
+   height: auto;
 }
+
 .print-sheet {
   position: absolute;
   display: grid;
