@@ -202,16 +202,16 @@ h3 {
 
 .brand-copy strong {
   color: var(--green);
-  font-size: 20px;
+  font-size: 24px;
   letter-spacing: -0.6px;
 }
 
 .brand-copy small {
   margin-top: 5px;
   color: var(--muted);
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 750;
-  letter-spacing: 5.1px;
+  letter-spacing: 8.1px;
 }
 
 .nav-links {
