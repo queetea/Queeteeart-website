@@ -853,7 +853,7 @@ h3 {
    width: 100%;
    height: auto;
 }
-.art-sheet .print-sheet {
+.art-print .print-sheet {
   position: absolute;
   display: grid;
   place-items: center;
