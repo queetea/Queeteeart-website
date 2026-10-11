@@ -818,6 +818,14 @@ h3 {
   background: #E9E4D9;
 }
 
+.art-sheet {
+   position: relative;
+   display: flex;
+   flex-direction: column;
+   justify-content: space-between;
+   min-height: 310px;
+   
+}
 .print-sheet {
   position: absolute;
   display: grid;
