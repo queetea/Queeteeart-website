@@ -824,6 +824,7 @@ h3 {
 .art-print .portfolio-big-type-two {
   position: relative;
   z-index: 1;
+  text-align: left;
   align-self: center;
   color: var(--green);
   font-family: Georgia, serif;
