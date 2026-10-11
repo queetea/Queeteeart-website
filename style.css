@@ -854,7 +854,7 @@ h3 {
    height: auto;
 }
 .print-sheet {
-  position: absolute;
+  position: relative absolute;
   display: grid;
   place-items: center;
   width: 60%;
