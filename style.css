@@ -177,6 +177,12 @@ h3 {
   padding-right: 4px;
 }
 
+.brand-mark img {
+   display: flex;
+   border-radius: 2px;
+   place-item: center;
+}
+
 .brand-mark span {
   color: var(--gold-light);
 }
