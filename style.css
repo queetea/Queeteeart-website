@@ -181,8 +181,8 @@ h3 {
    position: relative;
    display: flex;
    place-items: center;
-   width: auto;
-   height: auto;
+   width: 45px;
+   height: 45px;
    border-radius: 10px;
    
 }
