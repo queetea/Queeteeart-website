@@ -178,9 +178,8 @@ h3 {
 }
 
 .brand-mark img {
-   display: flex;
+   display: grid;
    border-radius: 2px;
-   place-item: center;
 }
 
 .brand-mark span {
