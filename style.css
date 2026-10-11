@@ -178,10 +178,11 @@ h3 {
 }
 
 .brand-mark img {
+   position: relative;
    display: grid;
    place-items: center;
-   width: 30px;
-   height: 30px;
+   width: 7px;
+   height: auto;
    border-radius: 10px;
    
 }
