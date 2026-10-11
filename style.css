@@ -212,7 +212,7 @@ h3 {
   color: var(--muted);
   font-size: 9px;
   font-weight: 750;
-  letter-spacing: 6.7px;
+  letter-spacing: 6.5px;
 }
 
 .nav-links {
@@ -853,14 +853,13 @@ h3 {
    width: 100%;
    height: auto;
 }
-
 .print-sheet {
   position: absolute;
   display: grid;
   place-items: center;
   width: 60%;
   aspect-ratio: 0.78;
-  padding: 13px;
+  padding: 14px;
   font-family: Georgia, serif;
   font-size: clamp(22px, 3vw, 37px);
   font-weight: 700;
